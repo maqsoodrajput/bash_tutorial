@@ -2,7 +2,7 @@
 
 Bash is basically a command interperator or shell that we use for linux systems
 
-The order in which to follow this tutorial:
+This tutorial can be followed as follows:
 
 - Hello world
 - Variables
